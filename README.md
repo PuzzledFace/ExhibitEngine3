@@ -1,2 +1,2 @@
 # ExhibitEngine3
-Development version of ExhibityEngine v3, building on original work by Pekka Saarinen
+Development version of ExhibitEngine v3, building on original work by Pekka Saarinen
